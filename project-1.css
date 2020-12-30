@@ -1,0 +1,28 @@
+body {
+	background: grey;
+}
+
+#google:hover {
+       color: pink;
+       text-decoration: none;
+}
+
+th {
+	color: blue;
+}
+
+#google:link {
+	color: blue;
+}
+#google:visited {
+	 color: lightblue;
+}
+
+textarea ~ button {
+	color: blue;
+}
+
+
+img[src="D:\MY  FILES\documents/Wolf-Desktop-wallpaper.jpg"] {
+      border: 7px solid black;
+}
